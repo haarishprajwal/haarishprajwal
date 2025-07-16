@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haarishprajwal
 - 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently learning Linux.
+- 🌱 I’m currently learning Coding and Linux
 - 📫 Reach me through email, haarishprajwalgithub@gmail.com
 
 <!---
